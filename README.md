@@ -8,7 +8,7 @@
 # CVIP AICC 2021 Track 1 Links
 
 - [Re-up AICC-2021 dataset]( https://drive.google.com/drive/folders/1zJF8e3blbLhwPueoVv9IuOFDdzCCDg3V?usp=sharing)
-- [Data for labelling]((https://drive.google.com/drive/folders/16o4d813WAncaSu146irysK-Eh_94RmxY)
+- [Data for labelling](https://drive.google.com/drive/folders/16o4d813WAncaSu146irysK-Eh_94RmxY)
 - [Detection generation tool for labelling](https://drive.google.com/drive/folders/1UcSG2a2z4kD8zpkpLjaDqQcsO2z1iEig?usp=sharing)
 - [Label tool for static objects](https://drive.google.com/file/d/137Tye3oZzR03c6d1CDvdBAPLod43R6AE/view)
 - [Kwang-Thong’s Software](https://drive.google.com/file/d/18aqnyBrQTbDSuzBYcr9kR95hctYomEVz/view) IDK what does it do
